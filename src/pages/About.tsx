@@ -71,26 +71,12 @@ const About = () => {
               <div className="flex flex-col md:flex-row animate-fade-in">
                 <div className="md:w-1/3">
                   <div className="font-bold text-2xl text-greenfield mb-2">2020</div>
-                  <h3 className="text-xl font-semibold text-darkgray">Expansion</h3>
+                  <h3 className="text-xl font-semibold text-darkgray">Technology Division</h3>
                 </div>
                 <div className="md:w-2/3 md:pl-8 mt-4 md:mt-0">
                   <div className="bg-white p-6 rounded-lg shadow-sm">
                     <p className="text-gray-600">
-                      Continued growth in real estate investments, focusing on strategic property acquisitions and neighborhood revitalization.
-                    </p>
-                  </div>
-                </div>
-              </div>
-              
-              <div className="flex flex-col md:flex-row animate-fade-in">
-                <div className="md:w-1/3">
-                  <div className="font-bold text-2xl text-greenfield mb-2">2022</div>
-                  <h3 className="text-xl font-semibold text-darkgray">Emerging Markets</h3>
-                </div>
-                <div className="md:w-2/3 md:pl-8 mt-4 md:mt-0">
-                  <div className="bg-white p-6 rounded-lg shadow-sm">
-                    <p className="text-gray-600">
-                      Continued focus on identifying and investing in residential properties in emerging neighborhoods with high growth potential.
+                      Opened technology division to focus on technology integration and innovation in real estate investments.
                     </p>
                   </div>
                 </div>
@@ -104,7 +90,7 @@ const About = () => {
                 <div className="md:w-2/3 md:pl-8 mt-4 md:mt-0">
                   <div className="bg-white p-6 rounded-lg shadow-sm">
                     <p className="text-gray-600">
-                      Committed to driving value through strategic real estate investments in residential emerging neighborhoods.
+                      Continuing to drive value through strategic real estate investments and technology integration in residential emerging neighborhoods across Colorado.
                     </p>
                   </div>
                 </div>

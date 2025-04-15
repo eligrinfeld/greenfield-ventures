@@ -29,17 +29,17 @@ const AboutSection = () => {
           
           <div className="bg-lightgray p-8 rounded-lg shadow-sm transition-lift animate-fade-in" style={{ animationDelay: '0.2s' }}>
             <div className="text-greenfield font-bold text-xl mb-2">2020</div>
-            <h3 className="text-xl font-semibold text-darkgray mb-3">Strategic Growth</h3>
+            <h3 className="text-xl font-semibold text-darkgray mb-3">Technology Division</h3>
             <p className="text-gray-600">
-              Expanded our real estate investment portfolio, focusing on strategic property acquisitions in up-and-coming areas.
+              Opened technology division to focus on technology integration and innovation in real estate investments.
             </p>
           </div>
           
           <div className="bg-lightgray p-8 rounded-lg shadow-sm transition-lift animate-fade-in" style={{ animationDelay: '0.4s' }}>
             <div className="text-greenfield font-bold text-xl mb-2">Present</div>
-            <h3 className="text-xl font-semibold text-darkgray mb-3">Continued Expansion</h3>
+            <h3 className="text-xl font-semibold text-darkgray mb-3">Strategic Growth</h3>
             <p className="text-gray-600">
-              Continuing to drive value through strategic investments in residential emerging neighborhoods across Colorado.
+              Continuing to drive value through strategic real estate investments and technology integration in residential emerging neighborhoods across Colorado.
             </p>
           </div>
         </div>
