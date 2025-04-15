@@ -21,10 +21,10 @@ const About = () => {
             <div className="animate-slide-in-right">
               <h2 className="text-3xl font-bold text-darkgray mb-6">Our Mission</h2>
               <p className="text-gray-600 mb-4 leading-relaxed">
-                Founded in 2017, Greenfield Ventures LLC is a Colorado-based technology firm dedicated to developing and delivering innovative software solutions. In 2020, we launched our technology division, focusing on creating digital platforms that transform traditional industries.
+                Founded in 2017, Greenfield Ventures LLC is a Colorado-based real estate investment firm. We focus on identifying and developing residential properties in emerging neighborhoods, driving value through strategic investments.
               </p>
               <p className="text-gray-600 mb-6 leading-relaxed">
-                Our approach is rooted in technical excellence, market understanding, and a commitment to driving digital transformation through cutting-edge technology solutions.
+                Established in Colorado with a mission to drive technological innovation in real estate, we specialize in identifying and revitalizing residential properties in up-and-coming neighborhoods.
               </p>
               <Button to="/contact">
                 Contact Us <ArrowRight className="ml-2 h-4 w-4" />
@@ -62,7 +62,7 @@ const About = () => {
                 <div className="md:w-2/3 md:pl-8 mt-4 md:mt-0">
                   <div className="bg-white p-6 rounded-lg shadow-sm">
                     <p className="text-gray-600">
-                      Established in Colorado with a vision to drive technological innovation and digital transformation across industries.
+                      Established in Colorado, focusing on identifying promising real estate investment opportunities in emerging residential neighborhoods.
                     </p>
                   </div>
                 </div>
@@ -71,12 +71,12 @@ const About = () => {
               <div className="flex flex-col md:flex-row animate-fade-in">
                 <div className="md:w-1/3">
                   <div className="font-bold text-2xl text-greenfield mb-2">2020</div>
-                  <h3 className="text-xl font-semibold text-darkgray">Technology Division</h3>
+                  <h3 className="text-xl font-semibold text-darkgray">Expansion</h3>
                 </div>
                 <div className="md:w-2/3 md:pl-8 mt-4 md:mt-0">
                   <div className="bg-white p-6 rounded-lg shadow-sm">
                     <p className="text-gray-600">
-                      Launched our dedicated technology division, focusing on developing innovative software solutions and digital platforms for transforming traditional industries.
+                      Continued growth in real estate investments, focusing on strategic property acquisitions and neighborhood revitalization.
                     </p>
                   </div>
                 </div>
@@ -85,12 +85,12 @@ const About = () => {
               <div className="flex flex-col md:flex-row animate-fade-in">
                 <div className="md:w-1/3">
                   <div className="font-bold text-2xl text-greenfield mb-2">2022</div>
-                  <h3 className="text-xl font-semibold text-darkgray">Expanding Solutions</h3>
+                  <h3 className="text-xl font-semibold text-darkgray">Emerging Markets</h3>
                 </div>
                 <div className="md:w-2/3 md:pl-8 mt-4 md:mt-0">
                   <div className="bg-white p-6 rounded-lg shadow-sm">
                     <p className="text-gray-600">
-                      Continued to expand our technology solutions, focusing on creating innovative software that drives digital transformation across various sectors.
+                      Continued focus on identifying and investing in residential properties in emerging neighborhoods with high growth potential.
                     </p>
                   </div>
                 </div>
@@ -99,12 +99,12 @@ const About = () => {
               <div className="flex flex-col md:flex-row animate-fade-in">
                 <div className="md:w-1/3">
                   <div className="font-bold text-2xl text-greenfield mb-2">Present</div>
-                  <h3 className="text-xl font-semibold text-darkgray">Growing Impact</h3>
+                  <h3 className="text-xl font-semibold text-darkgray">Strategic Growth</h3>
                 </div>
                 <div className="md:w-2/3 md:pl-8 mt-4 md:mt-0">
                   <div className="bg-white p-6 rounded-lg shadow-sm">
                     <p className="text-gray-600">
-                      Committed to delivering cutting-edge technology solutions that help businesses adapt, innovate, and thrive in the digital era.
+                      Committed to driving value through strategic real estate investments in residential emerging neighborhoods.
                     </p>
                   </div>
                 </div>
@@ -117,9 +117,9 @@ const About = () => {
       {/* CTA Section */}
       <section className="py-20 bg-greenfield text-white">
         <div className="container mx-auto px-4 md:px-6 text-center">
-          <h2 className="text-3xl md:text-4xl font-bold mb-6">Join Our Technology Journey</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-6">Explore Our Real Estate Investments</h2>
           <p className="text-xl text-white/90 mb-8 max-w-2xl mx-auto">
-            Discover how our innovative technology solutions can transform your business.
+            Discover how our strategic approach to real estate investment can create value in emerging neighborhoods.
           </p>
           <Button 
             to="/contact" 

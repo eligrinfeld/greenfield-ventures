@@ -1,6 +1,5 @@
 
 import { Link } from "react-router-dom";
-import { Linkedin } from "lucide-react";
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -14,8 +13,8 @@ const Footer = () => {
             <h3 className="text-xl font-semibold mb-4 text-white">Greenfield Ventures LLC</h3>
             <p className="text-gray-300 mb-2">Colorado-based</p>
             <p className="text-gray-300">
-              <a href="mailto:contact@greenfieldventures.com" className="hover:text-greenfield-light transition-colors">
-                contact@greenfieldventures.com
+              <a href="mailto:greenfield.ventures.llc@gmail.com" className="hover:text-greenfield-light transition-colors">
+                greenfield.ventures.llc@gmail.com
               </a>
             </p>
           </div>
@@ -45,17 +44,6 @@ const Footer = () => {
           {/* Connect */}
           <div>
             <h3 className="text-xl font-semibold mb-4 text-white">Connect</h3>
-            <div className="flex space-x-4 mb-4">
-              <a 
-                href="https://linkedin.com" 
-                target="_blank" 
-                rel="noopener noreferrer"
-                className="text-gray-300 hover:text-greenfield-light transition-colors"
-                aria-label="LinkedIn"
-              >
-                <Linkedin size={24} />
-              </a>
-            </div>
             <div className="text-sm text-gray-400 space-y-2">
               <Link to="/privacy" className="hover:text-gray-300 transition-colors block">
                 Privacy Policy
