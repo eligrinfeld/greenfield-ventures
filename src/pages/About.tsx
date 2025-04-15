@@ -21,10 +21,10 @@ const About = () => {
             <div className="animate-slide-in-right">
               <h2 className="text-3xl font-bold text-darkgray mb-6">Our Mission</h2>
               <p className="text-gray-600 mb-4 leading-relaxed">
-                Greenfield Ventures LLC is a Colorado-based firm committed to identifying and accelerating high-impact opportunities in real estate and emerging technologies. We combine on-the-ground insight with data-driven strategies to build long-term value for our investors and partners.
+                Founded in 2017, Greenfield Ventures LLC is a Colorado-based technology firm dedicated to developing and delivering innovative software solutions. In 2020, we launched our technology division, focusing on creating digital platforms that transform traditional industries.
               </p>
               <p className="text-gray-600 mb-6 leading-relaxed">
-                Our approach is rooted in thorough market analysis, sustainable growth principles, and a deep commitment to creating value for all stakeholders involved in our projects.
+                Our approach is rooted in technical excellence, market understanding, and a commitment to driving digital transformation through cutting-edge technology solutions.
               </p>
               <Button to="/contact">
                 Contact Us <ArrowRight className="ml-2 h-4 w-4" />
@@ -56,13 +56,13 @@ const About = () => {
             <div className="space-y-12">
               <div className="flex flex-col md:flex-row animate-fade-in">
                 <div className="md:w-1/3">
-                  <div className="font-bold text-2xl text-greenfield mb-2">2018</div>
+                  <div className="font-bold text-2xl text-greenfield mb-2">2017</div>
                   <h3 className="text-xl font-semibold text-darkgray">Foundation</h3>
                 </div>
                 <div className="md:w-2/3 md:pl-8 mt-4 md:mt-0">
                   <div className="bg-white p-6 rounded-lg shadow-sm">
                     <p className="text-gray-600">
-                      Established in Colorado with a focus on identifying undervalued properties in emerging neighborhoods. Our initial projects focused on residential redevelopment in growing communities.
+                      Established in Colorado with a vision to drive technological innovation and digital transformation across industries.
                     </p>
                   </div>
                 </div>
@@ -71,12 +71,12 @@ const About = () => {
               <div className="flex flex-col md:flex-row animate-fade-in">
                 <div className="md:w-1/3">
                   <div className="font-bold text-2xl text-greenfield mb-2">2020</div>
-                  <h3 className="text-xl font-semibold text-darkgray">Tech Expansion</h3>
+                  <h3 className="text-xl font-semibold text-darkgray">Technology Division</h3>
                 </div>
                 <div className="md:w-2/3 md:pl-8 mt-4 md:mt-0">
                   <div className="bg-white p-6 rounded-lg shadow-sm">
                     <p className="text-gray-600">
-                      Launched our technology investment division, focused on supporting innovative startups. We began partnering with founders building solutions for traditional industries ready for digital transformation.
+                      Launched our dedicated technology division, focusing on developing innovative software solutions and digital platforms for transforming traditional industries.
                     </p>
                   </div>
                 </div>
@@ -85,12 +85,12 @@ const About = () => {
               <div className="flex flex-col md:flex-row animate-fade-in">
                 <div className="md:w-1/3">
                   <div className="font-bold text-2xl text-greenfield mb-2">2022</div>
-                  <h3 className="text-xl font-semibold text-darkgray">Portfolio Growth</h3>
+                  <h3 className="text-xl font-semibold text-darkgray">Expanding Solutions</h3>
                 </div>
                 <div className="md:w-2/3 md:pl-8 mt-4 md:mt-0">
                   <div className="bg-white p-6 rounded-lg shadow-sm">
                     <p className="text-gray-600">
-                      Extended our investment portfolio to include mixed-use commercial developments and expanded our technology investments to focus on AI and automation technologies with significant market potential.
+                      Continued to expand our technology solutions, focusing on creating innovative software that drives digital transformation across various sectors.
                     </p>
                   </div>
                 </div>
@@ -104,7 +104,7 @@ const About = () => {
                 <div className="md:w-2/3 md:pl-8 mt-4 md:mt-0">
                   <div className="bg-white p-6 rounded-lg shadow-sm">
                     <p className="text-gray-600">
-                      Today, Greenfield Ventures continues to build a diverse portfolio with sustainable growth strategies. We're focused on projects that not only generate returns but also create positive impacts for communities and industries.
+                      Committed to delivering cutting-edge technology solutions that help businesses adapt, innovate, and thrive in the digital era.
                     </p>
                   </div>
                 </div>
@@ -117,9 +117,9 @@ const About = () => {
       {/* CTA Section */}
       <section className="py-20 bg-greenfield text-white">
         <div className="container mx-auto px-4 md:px-6 text-center">
-          <h2 className="text-3xl md:text-4xl font-bold mb-6">Join Our Investment Community</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-6">Join Our Technology Journey</h2>
           <p className="text-xl text-white/90 mb-8 max-w-2xl mx-auto">
-            Learn more about our current projects and upcoming opportunities.
+            Discover how our innovative technology solutions can transform your business.
           </p>
           <Button 
             to="/contact" 
