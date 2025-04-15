@@ -52,6 +52,14 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+        // Greenfield Ventures custom colors
+        greenfield: {
+          DEFAULT: '#2E7D32', // primary green
+          light: '#81C784',   // lighter green accent
+          dark: '#1B5E20',    // darker green
+        },
+        darkgray: '#333333',
+        lightgray: '#F5F5F5',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
