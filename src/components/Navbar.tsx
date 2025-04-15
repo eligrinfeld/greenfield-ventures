@@ -1,4 +1,3 @@
-
 import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import { Menu, X } from "lucide-react";
@@ -33,7 +32,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center">
           <Link
             to="/"
-            className="text-greenfield font-bold text-xl md:text-2xl"
+            className="text-white font-bold text-xl md:text-2xl hover:text-gray-200 transition-colors"
           >
             Greenfield Ventures
           </Link>
